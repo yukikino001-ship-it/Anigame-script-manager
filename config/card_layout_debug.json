@@ -1,0 +1,35 @@
+{
+  "tasks": {
+    "x_ratio": 0.565,
+    "y_ratio": 0.31,
+    "width_ratio": 0.425,
+    "pitch": -8.0,
+    "yaw": -30.0,
+    "roll": 1.0,
+    "rotation": 0.0,
+    "title_size_ratio": 0.06,
+    "z": 3
+  },
+  "stats": {
+    "x_ratio": 0.318,
+    "y_ratio": 0.694,
+    "width_ratio": 0.255,
+    "pitch": -2.0,
+    "yaw": -30.0,
+    "roll": -2.0,
+    "rotation": 0.0,
+    "title_size_ratio": 0.073,
+    "z": 2
+  },
+  "logs": {
+    "x_ratio": 0.775,
+    "y_ratio": 0.68,
+    "width_ratio": 0.255,
+    "pitch": -6.0,
+    "yaw": -30.0,
+    "roll": -2.0,
+    "rotation": 0.0,
+    "title_size_ratio": 0.073,
+    "z": 2
+  }
+}

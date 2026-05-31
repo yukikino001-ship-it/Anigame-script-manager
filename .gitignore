@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+
+# Build outputs
+build/
+dist/
+*.spec
+
+# Runtime logs
+logs/
+*.log
+assets/temp/
+
+# Runtime stats
+runtime_stats/
+
+# Local configs
+config.local.json
+auto_script_config_local.json
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# PyInstaller cache
+*.manifest
+
+# Test cache
+.pytest_cache/
